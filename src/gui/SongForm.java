@@ -21,7 +21,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class SongForm extends javax.swing.JFrame {
 
