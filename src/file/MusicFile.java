@@ -23,7 +23,7 @@ import model.Song;
 import model.User;
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class MusicFile {
     File archivo = null;
