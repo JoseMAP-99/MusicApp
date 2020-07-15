@@ -13,7 +13,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class MusicAppForm extends javax.swing.JFrame {
 
