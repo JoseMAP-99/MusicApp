@@ -15,7 +15,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class PlaylistForm extends javax.swing.JFrame {
 
