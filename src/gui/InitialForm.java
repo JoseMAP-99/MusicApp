@@ -15,7 +15,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class InitialForm extends javax.swing.JFrame {
 
