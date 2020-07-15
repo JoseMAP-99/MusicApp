@@ -14,7 +14,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class ChooseSong extends javax.swing.JFrame {
 
