@@ -13,7 +13,7 @@ import model.User;
 
 /**
  *
- * @author Ignacio
+ * @author Grupo
  */
 public class ShowPlayList extends javax.swing.JFrame {
     Library library;
